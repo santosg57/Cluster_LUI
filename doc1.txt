@@ -1,1 +1,4 @@
 sudo ln -s /usr/lib/x86_64-linux-gnu/libmng.so.2 /usr/lib/x86_64-linux-gnu/libmng.so.1
+
+https://elpuig.xeill.net/Members/vcarceler/c1/didactica/apuntes/ud3/na8
+
